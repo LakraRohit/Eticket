@@ -1,5 +1,5 @@
 E-Ticket
-Features
+Features,
 User Authentication:
 Login and Signup functionality.
 Password validation and database checks.
