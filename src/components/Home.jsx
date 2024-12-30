@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { MdAirlineSeatReclineExtra } from "react-icons/md";
-import ChuChuTrain from '../assets/ChuChuTrain.gif';
+import ChuChuTrain from '../assets/chuchuTrain.gif';
 import Giff from '../assets/Giff1.gif';
 import PopUp from '../components/PopUp'; // Import PopUp component
 
