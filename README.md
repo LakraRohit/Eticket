@@ -1,5 +1,6 @@
 
 Deployed Link - https://eticket-delta.vercel.app/
+Netlify- https://ornate-alpaca-ad62bb.netlify.app/
 
 E-Ticket
 Features,Responsive
@@ -27,6 +28,7 @@ Ensure you have the following installed:
 Node.js (v16 or above)
 PostgreSQL
 Git
+Folder Structure - 
 project/
 ├── backend/
 │   ├── controllers/
