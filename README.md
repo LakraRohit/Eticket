@@ -1,4 +1,65 @@
-# React + Vite
+E-Ticket
+Features,
+User Authentication:
+Login and Signup functionality.
+Password validation and database checks.
+JWT-based authentication.
+Seat Selection:
+Allows users to book seats with priority given to row-wise selection.
+Displays available and reserved seats in real-time.
+Seller Operations:
+Manage tickets and bookings.
+View statistics for sold tickets.
+Buyer Operations:
+Select and book seats.
+View and cancel bookings.
+Technologies Used
+Frontend: React, TypeScript, TailwindCS
+Backend: Node.js, Express
+Database: PostgreSQ
+Authentication: JWT
+Setup Instructions
+Prerequisites
+Ensure you have the following installed:
+Node.js (v16 or above)
+PostgreSQL
+Git
+project/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── .env
+│   ├── database.js
+│   └── server.js
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.tsx
+│   │   └── main.tsx
+└── database/
+    ├── schema.sql
+
+{
+  "email": "user@example.com",
+  "password": "securepassword"
+}
+
+{
+  "message": "User registered successfully."
+}
+
+{
+  "email": "user@example.com",
+  "password": "securepassword"
+}
+
+{
+  "token": "jwt_token_here"
+}
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
