@@ -1,5 +1,8 @@
+
+Deployed Link - https://eticket-delta.vercel.app/
+
 E-Ticket
-Features,
+Features,Responsive
 User Authentication:
 Login and Signup functionality.
 Password validation and database checks.
